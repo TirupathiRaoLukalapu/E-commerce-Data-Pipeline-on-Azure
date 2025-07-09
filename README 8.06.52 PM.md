@@ -57,16 +57,6 @@ This project demonstrates an end-to-end data pipeline for processing E-Commerce 
   </tr>
 </table>
 
-</div>
-
-<table>
-    <td>
-      <p><a href="https://github.com/user-attachments/assets/db743b45-d7ca-4322-a6e4-ba0980d01d10"></a></p>
-    </td>
-    <td>
-      <p><a href="https://github.com/user-attachments/assets/8e898119-33f3-44e5-bccc-f76125a7e3f1"></a></p>
-    </td>
-</table>
 
 
 
